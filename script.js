@@ -1,5 +1,5 @@
 //set match and date time
-let matchDate = new Date("August 8, 2026 16:00:00").getTime()
+let matchDate = new Date("August 10, 2026 16:00:00").getTime()
 //uodate countdown every second
 setInterval(function(){
   let now = new Date().getTime();

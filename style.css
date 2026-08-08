@@ -357,3 +357,8 @@ Tob banner
   color:#006400;
     margin-top:0;
 }
+
+.qualified{
+    color: green;
+    font: bold;
+}
